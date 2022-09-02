@@ -1,0 +1,98 @@
+baseURL: "https://glasshomestudio.com/"
+title: "Glass Home Studio"
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: true
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "Glass Home Studio"
+  description: "Custom made stained glass art at affordable prices"
+  #keywords: [Blog, Portfolio, PaperMod]
+  author: "Richard Knobloch"
+  # author: ["Me", "You"] # multiple authors
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    #favicon: "<link / abs url>"
+    #favicon16x16: "<link / abs url>"
+    #favicon32x32: "<link / abs url>"
+    #apple_touch_icon: "<link / abs url>"
+    #safari_pinned_tab: "<link / abs url>"
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Welcome to Glass Home Studio"
+    subtitle: "Custom-made stained glass art at affordable prices"
+    imageUrl: "img/flower-closeup.png"
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: "Glass Home Studio"
+    buttons:
+      - name: Portfolio
+        url: portfolio
+      - name: Contact
+        url: contact
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+menu:
+  main:
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 10
+    - identifier: process
+      name: process
+      url: /process/
+      weight: 15
+    - identifier: portfolio
+      name: portfolio
+      url: /portfolio/
+      weight: 20
+    - identifier: contact
+      name: contact
+      url: /contact/
+      weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
