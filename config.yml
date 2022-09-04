@@ -16,10 +16,8 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Glass Home Studio"
   description: "Custom made stained glass art at affordable prices"
-  #keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Stained Glass, Phoenix, Glass, Art, Craftsman]
   author: "Richard Knobloch"
-  # author: ["Me", "You"] # multiple authors
-  #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -31,7 +29,7 @@ params:
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
-  UseHugoToc: true
+  UseHugoToc: false
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -41,7 +39,7 @@ params:
   tocopen: true
 
   assets:
-    # disableHLJS: true # to disable highlight.js
+    disableHLJS: true
     # disableFingerprinting: true
     #favicon: "<link / abs url>"
     #favicon16x16: "<link / abs url>"
@@ -89,10 +87,3 @@ menu:
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
-markup:
-  highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true

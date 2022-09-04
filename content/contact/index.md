@@ -1,6 +1,7 @@
 ---
 title: "Contact"
-date: 2022-08-31T23:09:03-05:00
-draft: true
+layout: "contact"
 ---
-How to reach me
+Please fill out this form to get in touch. 
+
+Glass Home Studio looks forward to hearing from you!
