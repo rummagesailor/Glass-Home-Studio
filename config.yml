@@ -1,6 +1,6 @@
 baseURL: "https://glass.pitpat.me/"
 title: "Glass Home Studio"
-paginate: 5
+paginate: 6
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -17,7 +17,6 @@ params:
   title: "Glass Home Studio"
   description: "Custom made stained glass art at affordable prices"
   keywords: [Stained Glass, Phoenix, Glass, Art, Craftsman]
-  author: "Richard Knobloch"
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false

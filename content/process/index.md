@@ -1,6 +1,5 @@
 ---
 title: "Process"
-date: 2022-08-31T23:10:22-05:00
 draft: false
 ---
 This page explains the Glass Home Studio process from start to finish, with the customer involved every step of the way.
