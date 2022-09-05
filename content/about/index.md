@@ -34,7 +34,7 @@ He founded **The Glass House** and created dozens of stained glass windows for c
 
 ![RK](/img/about/glasshouse.jpg)
 
-Richard currently resides in Buckeye, AZ, and has restarted his passion project as **Home Glass Studio**.
+Richard currently resides in Buckeye, AZ, and has restarted his passion project as **Glass Home Studio**.
 
  ## Daniel Knobloch
 Daniel helps with all things digital from his home in Minneapolis, and created this website.  
