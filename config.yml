@@ -46,10 +46,10 @@ params:
   assets:
     disableHLJS: true
     # disableFingerprinting: true
-    #favicon: "<link / abs url>"
-    #favicon16x16: "<link / abs url>"
-    #favicon32x32: "<link / abs url>"
-    #apple_touch_icon: "<link / abs url>"
+    favicon: "https://glass.pitpat.me/img/favicon/logo-32x32.ico"
+    favicon16x16: "https://glass.pitpat.me/img/favicon/logo-16x16.ico"
+    favicon32x32: "https://glass.pitpat.me/img/favicon/logo-32x32.ico"
+    apple_touch_icon: "https://glass.pitpat.me/img/favicon/logo-57x57.ico"
     #safari_pinned_tab: "<link / abs url>"
 
   # profile-mode
