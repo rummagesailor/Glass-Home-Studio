@@ -1,2 +1,2 @@
 # Glass Home Studio
-> Static website using Hugo with PapreMod theme, deployed and hosted by Cloudflare Pages
+> Static website using Hugo with PaperMod theme, deployed and hosted by Cloudflare Pages

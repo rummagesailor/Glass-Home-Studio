@@ -70,16 +70,15 @@
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h2>
   </header>
-  {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content">
-    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    <div>
+      <p>{{- partial "post_meta.html" . -}}</p>
+      <br>
+      {{- if .Params.summary }}<p>{{ .Params.summary | markdownify }}</p>{{- end }}
+    </div>
+    {{ $image := resources.Get .Params.image }}
+    <img src="{{ ($image.Fill "100x100 q100 Center").RelPermalink }}" width="100px" height="100px">
   </div>
-  {{- end }}
-  {{- if not (.Param "hideMeta") }}
-  <footer class="entry-footer">
-    {{- partial "post_meta.html" . -}}
-  </footer>
-  {{- end }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}

@@ -57,7 +57,6 @@
 }
 
 .entry-content {
-    margin: 8px 0;
     color: var(--secondary);
     font-size: 14px;
     line-height: 1.6;
@@ -65,6 +64,12 @@
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
+    display: flex;
+    justify-content: space-between;
+}
+
+.entry-content > img {
+    margin-left: 10%;
 }
 
 .entry-footer {

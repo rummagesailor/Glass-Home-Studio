@@ -2,6 +2,12 @@ baseURL: "https://glass.pitpat.me/"
 title: "Glass Home Studio"
 paginate: 6
 theme: PaperMod
+pluralizelisttitles: "false"
+
+module:
+  mounts:
+  - source: static
+    target: assets
 
 enableRobotsTXT: true
 buildDrafts: true

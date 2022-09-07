@@ -11,8 +11,6 @@ showToc: false
  ## Specialties
  We specialize in [Victorian](https://www.google.com/search?q=victorian+stained+glass), [Prairie](https://www.google.com/search?q=prairie+art+stained+glass), and [Frank Lloyd Wright](https://www.google.com/search?q=frank+lloyd+wright+stained+glass) styles, and can handle any custom designs you can think up.  
 
-*TODO - collage of windows*
-
  See our [Portfolio]({{< ref "/portfolio" >}}) for some examples of past and current stained glass projects, and learn about our [process]({{< ref "/process" >}}).
 
  ## Location

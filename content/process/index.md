@@ -2,9 +2,9 @@
 title: "Process"
 draft: false
 ---
-This page explains the Glass Home Studio process from start to finish, with the customer involved every step of the way.
+This page explains the Glass Home Studio process from start to finish, using the [Pizza Sun]({{< ref "/portfolio/pizza" >}}) project as a reference.
 
-*TODO - add link to pizza window in Portfolio, and explanation that we're walking through its process*
+We involve the customer at every step, to ensure we're on the right track and executing your vision.
 
 ## Vision and Requirements
 ![Mockup](/img/process/mockup.jpg)
