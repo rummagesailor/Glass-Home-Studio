@@ -1,6 +1,7 @@
 ---
 title: "Process"
 draft: false
+keywords: [Glass Home Studio, Stained Glass, Glass, Art, Phoenix, Buckeye, Process, Design, Customer, Flow, Shipping]
 ---
 This page explains the Glass Home Studio process from start to finish, using the [Pizza Sun]({{< ref "/portfolio/pizza" >}}) project as a reference.
 

@@ -7,6 +7,7 @@ size: 36"x24"
 summary: Transom window made for family back in the day
 showToc: false
 showBreadCrumbs: true
+keywords: [Glass Home Studio, Stained Glass, Glass, Art, Phoenix, Buckeye, Transom, Victorian]
 ---
 **{{< page-variable "summary" >}}**
 

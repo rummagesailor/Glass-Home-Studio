@@ -6,6 +6,7 @@ image: "/img/portfolio/suncatchers/snowman.jpg"
 summary: Stocking stuffers from 🎅
 showToc: false
 showBreadCrumbs: true
+keywords: [Glass Home Studio, Stained Glass, Glass, Art, Phoenix, Buckeye, Suncatcher, Affordable]
 ---
 **{{< page-variable "summary" >}}**
 

@@ -7,6 +7,8 @@ size: 36"x24"
 summary: Perfect for your pizza shop or the pizzaiolo in your family
 showToc: false
 showBreadCrumbs: true
+keywords: [Glass Home Studio, Stained Glass, Glass, Art, Phoenix, Buckeye, Pizza, Landscape, Pepperoni]
+
 ---
 **{{< page-variable "summary" >}}**
 

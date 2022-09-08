@@ -7,6 +7,7 @@ size: 36"x36"
 summary: 🎶 Here comes sunshine 🎶
 showToc: false
 showBreadCrumbs: true
+keywords: [Glass Home Studio, Stained Glass, Glass, Art, Phoenix, Buckeye, Grateful Dead, Skull and Roses]
 ---
 **{{< page-variable "summary" >}}**
 

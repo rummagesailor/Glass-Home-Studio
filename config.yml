@@ -9,6 +9,11 @@ module:
   - source: static
     target: assets
 
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+
 enableRobotsTXT: true
 buildDrafts: true
 buildFuture: false
@@ -22,7 +27,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Glass Home Studio"
   description: "Custom made stained glass art at affordable prices"
-  keywords: [Stained Glass, Phoenix, Glass, Art, Craftsman]
+  keywords: [Glass Home Studio, Stained Glass, Phoenix, Glass, Art, Craftsman, Artisan]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
