@@ -2,10 +2,9 @@
 title: "About"
 draft: false
 hideMeta: true
+description: "Glass Home Studio is a family stained glass business started in 2022, with over 40 years of experience creating custom stained glass windows."
 showToc: false
-keywords: [Glass Home Studio, Stained Glass, Glass, Art, Phoenix, Buckeye, About]
 ---
- **Glass Home Studio** is a family stained glass business started in 2022, with over 40 years of experience.  
  
  ![Fam](/img/about/fam.jpg)
 

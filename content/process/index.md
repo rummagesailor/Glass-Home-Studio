@@ -1,11 +1,9 @@
 ---
 title: "Process"
 draft: false
-keywords: [Glass Home Studio, Stained Glass, Glass, Art, Phoenix, Buckeye, Process, Design, Customer, Flow, Shipping]
+description: "Glass Home Studio works with you each step of the way and values your feedback, to ensure we're on the right course while creating your dream project."
 ---
-This page explains the Glass Home Studio process from start to finish, using the [Pizza Sun]({{< ref "/portfolio/pizza" >}}) project as a reference.
-
-We involve the customer at every step, to ensure we're on the right track and executing your vision.
+Let's use the fantastic [Pizza Sun]({{< ref "/portfolio/pizza" >}}) project as an example, and walk through each step in detail.
 
 ## Vision and Requirements
 ![Mockup](/img/process/mockup.jpg)

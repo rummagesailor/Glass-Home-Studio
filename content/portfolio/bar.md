@@ -6,10 +6,9 @@ price: 525
 draft: false
 image: "/img/portfolio/bar/bar1.jpg"
 size: 33" W x 18" H
-summary: Level up your basement bar with this piece!
+summary: B-A-R in bold red letters.  Perfect for your basement bar / man cave
 showToc: false
 showBreadCrumbs: true
-keywords: [Glass Home Studio, Stained Glass, Bar Window Stained Glass, Pub Window Stained Glass, Man Cave Stained Glass]
 ---
 **{{< page-variable "summary" >}}**
 

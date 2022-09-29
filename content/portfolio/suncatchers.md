@@ -3,10 +3,9 @@ title: "Suncatchers"
 date: 2021-12-01T23:38:27-05:00
 draft: false
 image: "/img/portfolio/suncatchers/snowman.jpg"
-summary: Stocking stuffers from 🎅
+summary: Small, decorative stained glass ornaments that don't break the bank and have tons of possibilities
 showToc: false
 showBreadCrumbs: true
-keywords: [Glass Home Studio, Stained Glass, Glass, Art, Phoenix, Buckeye, Suncatcher, Affordable]
 ---
 **{{< page-variable "summary" >}}**
 

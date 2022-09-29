@@ -1,15 +1,14 @@
 ---
-title: "Chicago Prairie (Wheat)"
+title: "Frank Lloyd Wright Prairie Art"
 date: 2022-09-04T23:38:08-05:00
 tags: ["for sale"]
 price: 500
 draft: false
 image: "/img/portfolio/chicago-prairie/cp-orange.jpg"
 size: 23" W x 21" H
-summary: Timeless styles of Frank Lloyd Wright
+summary: Frank Lloyd Wright inspired prairie art. Mix of opalescent and Chicago art glass with a vintage yellow / orange / sepia palette.
 showToc: false
 showBreadCrumbs: true
-keywords: [Glass Home Studio, Stained Glass, Glass, Art, Phoenix, Buckeye, Chicago, Prairie Art, Frank Lloyd Wright]
 ---
 **{{< page-variable "summary" >}}**
 
