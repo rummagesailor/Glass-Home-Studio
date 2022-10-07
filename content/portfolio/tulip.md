@@ -14,4 +14,4 @@ Can be created in the colors of your choice and the dimensions you need.
      
 Measures {{< page-variable "size" >}}, including solid oak frame
 
-![Chicago Prairie (Frosted)]({{< page-variable "image" >}})
+![Victorian Tulip]({{< page-variable "image" >}})
