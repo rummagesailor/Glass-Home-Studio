@@ -1,6 +1,6 @@
 baseURL: "https://glasshomestudio.com/"
 title: "Glass Home Studio - Stained Glass - Buckeye, AZ"
-paginate: 6
+paginate: 10
 theme: PaperMod
 pluralizelisttitles: "false"
 
