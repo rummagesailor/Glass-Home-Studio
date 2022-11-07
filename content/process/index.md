@@ -50,7 +50,7 @@ Holes can be drilled for eye hooks, and brass or silver eye hooks provided.
 
 ## Shipping
 ![Crated Shipped](/img/process/crate.jpg)
-Glass Home Studio is located in Buckeye, AZ.  
+Glass Home Studio is located in Buckeye, Arizona.  
 
 If local pickup or delivery isn't an option, the window will be 
 * packed tight with foam and/or pillows

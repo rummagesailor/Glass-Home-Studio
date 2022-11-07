@@ -1,5 +1,5 @@
 baseURL: "https://glasshomestudio.com/"
-title: "Glass Home Studio - Stained Glass - Buckeye, AZ"
+title: "Glass Home Studio - Stained Glass - Buckeye, Arizona"
 paginate: 10
 theme: PaperMod
 pluralizelisttitles: "false"
@@ -25,8 +25,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "Glass Home Studio - Stained Glass in Buckeye, AZ"
-  description: "Glass Home Studio offers custom-made stained glass art at affordable prices, with 40+ years experience.  Based in Buckeye, AZ and serving Phoenix area."
+  title: "Glass Home Studio - Stained Glass in Buckeye, Arizona"
+  description: "Glass Home Studio offers custom-made stained glass art at affordable prices, with 40+ years experience.  Based in Buckeye, Arizona and serving Phoenix area."
   author: Richard Knobloch
   images: ["/img/flower-closeup.png"]
   DateFormat: "January 2, 2006"
