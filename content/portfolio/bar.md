@@ -2,7 +2,6 @@
 title: "Bar Window"
 date: 2022-09-26T22:28:00-05:00
 tags: ["for sale"]
-price: 525
 draft: false
 image: "/img/portfolio/bar/bar1.jpg"
 size: 33" W x 18" H

@@ -2,7 +2,6 @@
 title: "Pub Window"
 date: 2022-10-26T22:28:00-05:00
 tags: ["for sale"]
-price: 525
 draft: false
 image: "/img/portfolio/pub/pub1.jpg"
 size: 33" W x 18" H

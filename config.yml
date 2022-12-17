@@ -73,6 +73,8 @@ params:
     buttons:
       - name: Portfolio
         url: portfolio
+      - name: Etsy
+        url: https://www.etsy.com/shop/GlassHomeStudio
       - name: Contact
         url: contact
 
