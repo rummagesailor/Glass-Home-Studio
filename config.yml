@@ -75,8 +75,6 @@ params:
         url: portfolio
       - name: Etsy
         url: https://www.etsy.com/shop/GlassHomeStudio
-      - name: Contact
-        url: contact
 
   cover:
     hidden: true # hide everywhere but not in structured data
