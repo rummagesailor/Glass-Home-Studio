@@ -49,6 +49,10 @@ params:
   showtoc: true
   tocopen: true
 
+  socialIcons:
+    - name: "instagram"
+      url: "https://www.instagram.com/glasshomestudio"
+
   label:
     text: "Glass Home Studio"
 
